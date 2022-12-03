@@ -4,9 +4,9 @@
     display: flex;
     flex-direction: column;
     border-radius: 10px;
-    border: 0.5mm ridge rgb(173, 173, 234);
+    border: 0.5mm ridge #354734;
     padding: 20px;
-    background: white;
+    background: #96c793;
 }
 .header{
     text-align: center;
