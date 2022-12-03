@@ -4,7 +4,7 @@
     display: flex;
     flex-direction: column;
     border-radius: 10px;
-    border: 0.5mm ridge #354734;
+    border: none;
     padding: 20px;
     background: #96c793;
 }
@@ -12,7 +12,7 @@
     text-align: center;
 }
 .right{
-    background-color: #d99aa0;
+    background-color: #4ad95b;
     border-radius: 5px;
     padding-left:5px;
 }
