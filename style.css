@@ -1,0 +1,29 @@
+.wrapper{
+    margin:0 auto;
+    width:600px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    border: 0.5mm ridge rgb(173, 173, 234);
+    padding: 20px;
+    background: white;
+}
+.header{
+    text-align: center;
+}
+.right{
+    background-color: #bbf1b7;
+    border-radius: 5px;
+    padding-left:5px;
+}
+.wrong{
+    background-color: #efc0f0;
+    border-radius: 5px;
+    padding-left:5px;
+}
+.hidden{
+    display: none;
+}
+#btn1{
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(60, 59, 60));
+}
